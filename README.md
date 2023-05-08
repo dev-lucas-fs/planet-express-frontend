@@ -6,9 +6,5 @@ entre pessoas, conectando indivíduos de forma eficiente e segura
 ## Telas
 Aqui estão algumas capturas de tela do projeto para fornecer uma visão geral visual.
 
-## Telas de Login
-<p float="left">
-    <img height="500px" src="https://i.ibb.co/9N3t4hR/i-Phone-14-1.jpg" border="0">
-    <img height="500px" src="https://i.ibb.co/Vm8Rp5G/i-Phone-14-11.jpg" alt="i-Phone-14-11" border="0">
-    <img height="500px" src="https://i.ibb.co/9N3t4hR/i-Phone-14-1.jpg" alt="i-Phone-14-1" border="0">
-</p>
+![Home](./.readme/home.jpg) ![Home](./.readme/Google.jpg) ![Home](./.readme/Email.jpg) ![Home](./.readme/Login.jpg) ![Home](./.readme/iPhone%2014%20-%203.png) ![Home](./.readme/iPhone%2014%20-%204.png) ![Home](./.readme/iPhone%2014%20-%205.png) ![Home](./.readme/iPhone%2014%20-%206.png) ![Home](./.readme/iPhone%2014%20-%207.png) ![Home](./.readme/iPhone%2014%20-%208.png) ![Home](./.readme/iPhone%2014%20-%209.png)
+![Home](./.readme/iPhone%2014%20-%2010.png)
