@@ -53,5 +53,6 @@ export default createGlobalStyle`
     * {
         box-sizing: border-box;
         font-family: 'Inter', sans-serif !important;
+        overflow: hidden;
     }
 `

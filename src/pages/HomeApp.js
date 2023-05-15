@@ -2,6 +2,7 @@ import DefaultLayout from "./Layouts/DefaultLayout";
 import { BottomBar, Container, TopBar, Content } from "../static/styles/page/homeApp.style"
 import PlanetExpress from "../static/images/planet-express.png"
 import { MdHomeFilled, MdPerson } from "react-icons/md"
+import AddressSection from "../components/AddressSection";
 
 
 
@@ -16,7 +17,7 @@ export default function HomeApp()
                 </TopBar>
 
                 <Content>
-
+                    <AddressSection />
                 </Content>
 
                 <BottomBar>
